@@ -7,7 +7,7 @@ has_widgets: false
 title: 'Prerequisites'
 prev_page:
   url: /Overview/Overview
-  title: 'Overview'
+  title: 'Home'
 next_page:
   url: /Process/process
   title: 'Process'
@@ -300,6 +300,21 @@ You can do the same to the ```<HR>``` element.
 
 Classic Jupyter includes [Bootstrap](http://getbootstrap.com/), so we can use it there. But if we do, JupyterLab will render our pages differently.
 We recommend you use CSS to style your output. You can do this with a code cell as below, or create a function to set the CSS.
+
+
+<div class="alert alert-success" role="alert">
+  A simple success alert—check it out!
+</div>
+<div class="alert alert-danger" role="alert">
+  A simple danger alert—check it out!
+</div>
+<div class="alert alert-warning" role="alert">
+  A simple warning alert—check it out!
+</div>
+<div class="alert alert-info" role="alert">
+  A simple info alert—check it out!
+</div>
+
 
 
 
