@@ -45,6 +45,10 @@
       url: /Prerequisites/webdav
       not_numbered: true
       expand_sections: true
+    - title: FileXfer
+      url: /Prerequisites/filexfer
+      not_numbered: true
+      expand_sections: true
   
 - title: Process
   url: /Process/process
