@@ -17,5 +17,5 @@ comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /con
 To get started, you may be interested in the following links.
 Here are a few links of interest:
 
-* **[Quickstart](features/features)** is a quick demo and overview of Jupyter Books.
+* **[Quickstart](features/notebooks)** is a quick demo and overview of Jupyter Books.
 
