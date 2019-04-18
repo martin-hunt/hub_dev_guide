@@ -44,6 +44,7 @@
 
 # A chapter w/ a collection of sections beneath it
 - title: Features and customization
+  url: /features/notebooks
   expand_sections: true
   sections:
   - title: Jupyter notebooks
