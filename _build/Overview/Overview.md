@@ -94,6 +94,7 @@ comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /con
 
 {:.input_area}
 ```python
+# NO CODE
 url="https://www.youtube.com/embed/S_f2qV2_U00?rel=0&amp;controls=0&amp;showinfo=0"
 IFrame(url, width=560, height=315)
 ```
@@ -114,7 +115,4 @@ IFrame(url, width=560, height=315)
         
 </div>
 
-
-
-Here is an example:  [![Everything Is AWESOME](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s "Everything Is AWESOME")
 
