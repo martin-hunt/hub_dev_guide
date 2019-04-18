@@ -7,7 +7,7 @@ has_widgets: false
 title: 'Prerequisites'
 prev_page:
   url: /Overview/Overview
-  title: 'Home'
+  title: 'Overview'
 next_page:
   url: /Process/process
   title: 'Process'
@@ -231,28 +231,6 @@ $$
 \enclose{circle}{\enclose{box}{x}}
 $$
 
-## Equation Numbering and References
-
-In [Notebook Settings](../NotebookSettings/NotebookSettings.ipynb) you can enable equation numbering.  It will add an icon to the menubar.  Click on it whenever you want to renumber equations and references.
-
-
-To create a numbered equation, it must start with ```\begin{equation}```.
-You need to include a label for use with references.
-
-Click the renumber icon to render the equation with a reference number.
-
-\begin{equation}
-  \int_0^\infty \frac{x^3}{e^x-1}\,dx = \frac{\pi^4}{15}
-  \label{eq:mylabel}
-\end{equation}
-
-\begin{equation}
-e^{i\pi} + 1 = 0
-  \label{eq:another_label}
-\end{equation}
-
-In equation \eqref{eq:another_label} we showed the relationship between $e$,  $i$ and $\pi$.
-
 # HTML
 
 You can also mix HTML5 with your markdown.
@@ -300,21 +278,6 @@ You can do the same to the ```<HR>``` element.
 
 Classic Jupyter includes [Bootstrap](http://getbootstrap.com/), so we can use it there. But if we do, JupyterLab will render our pages differently.
 We recommend you use CSS to style your output. You can do this with a code cell as below, or create a function to set the CSS.
-
-
-<div class="alert alert-success" role="alert">
-  A simple success alert—check it out!
-</div>
-<div class="alert alert-danger" role="alert">
-  A simple danger alert—check it out!
-</div>
-<div class="alert alert-warning" role="alert">
-  A simple warning alert—check it out!
-</div>
-<div class="alert alert-info" role="alert">
-  A simple info alert—check it out!
-</div>
-
 
 
 
