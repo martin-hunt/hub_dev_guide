@@ -43,10 +43,14 @@
 - header: Demo textbook
 
 # A chapter w/ a collection of sections beneath it
-- title: Features and customization
-  url: /features/notebooks
+- title: Overview
+  url: /Overview/Overview
   expand_sections: true
-  sections:
-  - title: Jupyter notebooks
-    url: /features/notebooks
-    not_numbered: true
+- title: Process
+  url: /Process/process
+  expand_sections: true
+  
+#   sections:
+#   - title: Jupyter notebooks
+#     url: /features/notebooks
+#     not_numbered: true
