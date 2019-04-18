@@ -36,7 +36,7 @@
     url: /Prerequisites/access
     not_numbered: true
     expand_sections: true
-    sections:
+    subsections:
     - title: SFTP
       url: /Prerequisites/sftp
       not_numbered: true
