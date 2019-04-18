@@ -6,11 +6,11 @@ kernel_name: python3
 has_widgets: false
 title: 'Overview'
 prev_page:
-  url: /https://github.com/jupyter/jupyter-book
-  title: 'GitHub repository'
+  url: 
+  title: ''
 next_page:
-  url: /Process/process
-  title: 'Process'
+  url: /Prerequisites/overview
+  title: 'Prerequisites'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
 
@@ -48,7 +48,7 @@ comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /con
 
 <p>If you&#39;re looking for an easy way to create a graphical interface for a legacy tool or simple modeling code, check out the <a href="http://rappture.org">Rappture Toolkit</a> that is included as part of HUBzero. Rappture reads a simple XML-based description of a tool and generates a graphical user interface automatically. It interfaces naturally with many programming languages, including C/C++, Fortran, Matlab, Python, Perl, Tcl/Tk, and Ruby. It creates tools that look something like the following:</p>
 
-<p class="img-wrap"><img alt="example of a Rappture-based tool" src="attachment:rappture_01.png" /></p>
+<p class="img-wrap"><img alt="example of a Rappture-based tool" src="rappture_01.png" /></p>
 
 <p>&nbsp;</p>
 
@@ -94,7 +94,7 @@ comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /con
 
 {:.input_area}
 ```python
-# NO CODE
+# HIDDEN
 url="https://www.youtube.com/embed/S_f2qV2_U00?rel=0&amp;controls=0&amp;showinfo=0"
 IFrame(url, width=560, height=315)
 ```
